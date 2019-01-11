@@ -1,6 +1,13 @@
 # CompilationErrorShowcase
 temporary repository to show a bug
 
+## UPDATE
+After all I was using Scala 2.12.7
+The problem was that I only defined the Scala version on the root project
+Didn't know that I need to define for each sub-module
+Thx for all the help
+
+
 
 # sbt
 >compile
